@@ -6,4 +6,21 @@ div {
   margin-left: 10px;
   background-clip: content-box;
 }
+#first {
+    margin-top: 400px;
+    padding: 100px;
 
+}
+#second {
+    margin-top: 500px;
+    padding: 200px ;
+}
+#third {margin-left: 600px;
+    padding-top: 300px;
+
+}
+
+#fourth{
+    margin-left: 700px;
+    padding-top: 500px;
+}
