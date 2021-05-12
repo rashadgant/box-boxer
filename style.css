@@ -1,26 +1,34 @@
 div {
-  background-color: red;
-  width: 65px;
-  height: 65px;
-  border: 1px solid black;
-  margin-left: 10px;
-  background-clip: content-box;
-}
-#first {
-    margin-top: 400px;
-    padding: 100px;
-
-}
-#second {
-    margin-top: 500px;
-    padding: 200px ;
-}
-#third {margin-left: 600px;
-    padding-top: 300px;
-
-}
-
-#fourth{
-    margin-left: 700px;
-    padding-top: 500px;
-}
+    background-color: red;
+    width: 65px;
+    height: 65px;
+    border: 1px solid black;
+    margin-left: 5px;
+    background-clip: content-box;
+  }
+  
+  #first {
+      padding: 10px;
+  }
+  #second {
+      margin-top: 60px;
+      padding-left: 65px;
+      padding-bottom: 30px;
+      padding-top: 30px;
+      padding-left: 60px;
+      padding-right: 60px;
+  }
+  #third {
+    padding-top: 20px;
+      padding-right: 15px;
+      padding-left: 15px;
+      padding-bottom: 35px;
+      margin-top: 5px;
+  } 
+  #fourth{
+      margin-top: 100px;
+      padding-top: 10px;
+      padding-right: 100px;
+      padding-left: 150px;
+      padding-bottom: 20px;
+  }
